@@ -44,6 +44,10 @@ I am a B.Tech graduate passionate about Data Analytics and turning raw data into
 
 🔗 [View Project](https://github.com/kshirodmohanty361-ctrl/HR-Analytics-Dashboard)
 
+## 📄 Resume
+
+🔗 [View My Resume](Kshirod%20Mohanty_resume.docx)
+
 ## 🎓 Education
 
 **B.Tech – Electrical & Electronics Engineering**  
