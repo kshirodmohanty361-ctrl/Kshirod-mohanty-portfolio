@@ -42,7 +42,7 @@ I am a B.Tech graduate passionate about Data Analytics and turning raw data into
 - Used KPIs, charts and slicers
 - Generated HR insights for data-driven decision making
 
-🔗 [View Project](https://github.com/kshirodmohanty361-ctl/HR-Analytics-Dashboard)
+🔗 [View Project](https://github.com/kshirodmohanty361-ctrl/HR-Analytics-Dashboard)
 
 ## 🎓 Education
 
