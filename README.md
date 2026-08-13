@@ -31,6 +31,7 @@ I am a B.Tech graduate passionate about Data Analytics and turning raw data into
 - Generated business insights from sales data
 
 🔗 [View Project](https://github.com/kshirodmohanty361-ctrl/Sales-Analytics-Dashboard)
+
 ## 2. HR Analytics Dashboard
 
 *Tools:* Power BI, DAX, Power Query, Excel
@@ -42,7 +43,6 @@ I am a B.Tech graduate passionate about Data Analytics and turning raw data into
 - Generated HR insights for data-driven decision making
 
 🔗 [View Project](https://github.com/kshirodmohanty361-ctl/HR-Analytics-Dashboard)
-
 ## 🎓 Education
 
 **B.Tech – Electrical & Electronics Engineering**  
