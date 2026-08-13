@@ -46,7 +46,7 @@ I am a B.Tech graduate passionate about Data Analytics and turning raw data into
 
 ## 📄 Resume
 
-🔗 [View My Resume](Kshirod%20Mohanty_resume.docx)
+🔗 [View My Resume](Kshirod%20Mohanty_resume.pdf)
 
 ## 🎓 Education
 
